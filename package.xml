@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package name="pl.language.wbb">
     <packageinformation>
-      <packagename>Spolszczenie do WoltLab Burning Board 4.0</packagename>
-  	  <packagedescription>Pełne spolszczenie do WoltLab Burning Board 4.0</packagedescription>
-      <version>1.0.0</version>
-      <date>2012-08-23</date>
-      <plugin>com.woltlab.wbb</plugin>
-      <standalone>0</standalone>
-      <isunique>0</isunique>
+        <packagename>Spolszczenie do WoltLab Burning Board 4.0</packagename>
+        <packagedescription>Pełne spolszczenie do WoltLab Burning Board 4.0</packagedescription>
+        <version>1.0.0</version>
+        <date>2012-08-23</date>
+        <plugin>com.woltlab.wbb</plugin>
+        <standalone>0</standalone>
+        <isunique>0</isunique>
     </packageinformation>
     
     <authorinformation>
