@@ -28,7 +28,7 @@
     
     <!-- aktualizacja -->
     <instructions type="update" fromversion="1.0.0 Alpha 1">
-		  <languages languagecode="pl">pl.xml</languages>
-	  </instructions>
+      <languages languagecode="pl">pl.xml</languages>
+    </instructions>
   
 </package>
